@@ -27,14 +27,5 @@ Com o RDS, a empresa poderá gerenciar dados críticos como pedidos, clientes e 
 3. Conclusão
 A implementação dos serviços AWS na Abstergo Industries resultará em significativa redução de custos, aumento da escalabilidade automática e melhoria da segurança dos dados. Recomenda-se a continuidade do uso das ferramentas implantadas e a avaliação constante de novas soluções tecnológicas para aperfeiçoamento dos processos internos e da produtividade da empresa.
 
-4. Anexos
-Conceitos básicos de Cloud Storage
-
-Detalhes sobre Amazon EC2 Auto Scaling
-
-Guia de uso do Amazon S3
-
-Introdução ao Amazon RDS
-
 Assinatura do Responsável pelo Projeto:
 Marcus Vinicius Matheus Banzatto
